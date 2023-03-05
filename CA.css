@@ -1,3 +1,29 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 500px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 1140px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 350px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 220px;
+  }
 }
