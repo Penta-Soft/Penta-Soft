@@ -1,0 +1,19 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 200px;
+  height: 200px;
+  margin: 17px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  font-size: 1.875rem;
+  margin: 110px auto 60px;
+  padding: 0;
+}.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
