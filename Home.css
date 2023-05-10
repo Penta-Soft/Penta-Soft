@@ -28,14 +28,15 @@
 }
 
 .u-section-2 .u-text-1 {
-  font-weight: 400;
-  width: 260px;
-  margin: 52px auto 0;
+  font-weight: 700;
+  font-size: 3.75rem;
+  width: 353px;
+  margin: 56px auto 0;
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  margin-top: 55px;
-  margin-bottom: 48px;
+  margin-top: 52px;
+  margin-bottom: 60px;
 }
 
 .u-section-2 .u-layout-cell-1 {
@@ -142,5 +143,12 @@
   .u-section-2 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+    font-size: 1.875rem;
   }
 }
